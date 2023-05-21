@@ -1,0 +1,9 @@
+{
+  "name": "037-analyze-song",
+  "dockerFile": "../Dockerfile",
+  "customizations": {
+    "vscode": {
+      "extensions": ["ms-python.python"]
+    }
+  }
+}
